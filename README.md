@@ -60,3 +60,8 @@
   </main>
 </body>
 </html>
+body
+{
+  background: #d00;
+  color: fff;
+}
